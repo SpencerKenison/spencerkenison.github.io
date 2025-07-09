@@ -30,8 +30,6 @@ _September 2024 – Present · Logan, Utah_
 - Performed FEA to ensure modal & stress performance of flight parts met program specs.  
 - Initiated & tracked machining & build of 75+ pieces of prototype & flight hardware.  
 
----
-
 ### JR Automation – Setpoint Division  
 **Mechanical Engineering Intern**  
 _May 2024 – August 2024 · Ogden, Utah_  
@@ -39,8 +37,6 @@ _May 2024 – August 2024 · Ogden, Utah_
 - Designed 50+ pieces of specialized tooling for a $10.4M amusement project.  
 - Developed FAT, SAT, and installation plans with oversight from a licensed P.E.  
 - Performed multi-part FEA on plate-mounting adhesive to improve fatigue life.  
-
----
 
 ### Black Box Engr  
 **Mechanical Engineering Intern**  
@@ -50,8 +46,6 @@ _March 2024 – May 2024 · Logan, Utah_
 - Identified 150+ designed parts & 250+ buyout parts for purchasing.  
 - Independently designed & drew 20+ machined parts with GD&T under P.E. review.  
 
----
-
 ### Utah State University – College of Engineering  
 **Lead Mechanical Engineering Lab Technician**  
 _August 2022 – May 2024 · Logan, Utah_  
@@ -59,8 +53,6 @@ _August 2022 – May 2024 · Logan, Utah_
 - Directed undergraduate labs for 250+ students (wind tunnels, composites, fatigue testing, etc.).  
 - Led 6-person team; improved labs with documentation, video tutorials, and MAE LabWorks site.  
 - Maintained sensitive electrical and mechanical equipment inventory.  
-
----
 
 ### Autoliv  
 **Mechanical Engineering Intern**  
