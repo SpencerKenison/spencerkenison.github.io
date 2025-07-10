@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High-Speed Fabric Tester - USU Senior Design"
-date: 2025-07-10
+date: 2025-04-29
 tags: [project, testing, prototyping]
 ---
 
