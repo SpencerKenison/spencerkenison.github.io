@@ -13,9 +13,11 @@ I earned a BS in Mechanical Engineering from USU with an emphasis in aerospace a
 
 ## Latest Project
 
-{% assign latest = site.projects | sort: "date" | reverse | first %}
+{% assign latest = site.posts | first %}
+## Latest Project
+
 [{{ latest.title }} →]({{ latest.url }})
 
-*{{ latest.description }}*
+*{{ latest.excerpt | strip_html | truncate: 150 }}*
 
 
