@@ -6,7 +6,7 @@ permalink: /projects/
 
 # Projects
 
-Welcome to my projects page! Here are some of my latest projects:
+Here are some of my latest projects:
 
 <ul>
   {% for post in site.posts %}
@@ -17,3 +17,18 @@ Welcome to my projects page! Here are some of my latest projects:
     </li>
   {% endfor %}
 </ul>
+
+## GitHub Repositories
+
+<ul>
+  {% for repo in site.github.public_repos %}
+    <li>
+      <a href="{{ repo.html_url }}" target="_blank">{{ repo.name }}</a>
+      {% if repo.description %}
+        - {{ repo.description }}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+---
