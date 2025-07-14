@@ -36,14 +36,12 @@ header {
   font-size: 1.8em;
 }
 
-/* Main content spacing to avoid overlap with fixed header */
 main {
   flex: 1;
   padding: 40px;
   padding-top: 140px; /* Adjust if your header gets taller */
 }
 
-/* Footer */
 footer {
   padding: 20px 40px;
   background: #fff;
@@ -52,21 +50,24 @@ footer {
   text-align: center;
 }
 
-/* Nav styling */
 nav {
-  margin-top: 0;
+  display: flex;
+  align-items: center; /* Ensures vertical centering of nav content */
+  gap: 16px;           /* Optional: Better spacing between links */
 }
+
 nav a {
   text-decoration: none;
   color: #2c3e50;
-  margin-left: 16px;
+  padding: 8px 0;       /* Adds vertical padding for clickability */
 }
 
-/* Dropdown menu styling */
 .dropdown {
-  display: inline-block;
   position: relative;
+  display: flex;
+  align-items: center;
 }
+
 .dropdown-content {
   display: none;
   position: absolute;
